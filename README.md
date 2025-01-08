@@ -24,7 +24,7 @@ a> The user name must be either Ankan or Souparna
 b> the password must be Madhu or Trisha 
 Implement above by switch-case only .
 
-Question 7 : WAP to implement a switch case in java that will take 3 strings and if their length is > 3 ,  then it should greet the user. Remember to calculate the length of username in another static method.
+Question 7 : WAP to implement a switch case in java that will take 3 strings and if their length is > 3 ,  then it should greet the user. Remember to calculate the length of strings in another static method.
 
 Question 8 : WAP to print 1-10 using for loop , while loop and do-while loop in 3 different static methods. Call them from main and run.
 
